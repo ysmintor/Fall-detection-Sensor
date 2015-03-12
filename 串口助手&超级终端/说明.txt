@@ -1,0 +1,16 @@
+HTMer-研究互联网络和电脑应用技术的IT技术网，www.htmer.com欢迎您的光临！
+               (0 0)
+   +-----oOO----(_)----------+
+   |          HTMer          |
+   |                         |
+   |      www.htmer.com      |
+   +------------------oOO----+
+              |__|__|
+               || ||
+              ooO Ooo
+欢迎光临本站！邮箱：htmer.com@Gmail.com
+
+
+使用说明:
+
+将hypertrm.dll文件和hypertrm.exe文件拷贝到Vista的C:\WINDOWS\system32\中，双击hypertrm.exe文件即可运行超级终端程序了。

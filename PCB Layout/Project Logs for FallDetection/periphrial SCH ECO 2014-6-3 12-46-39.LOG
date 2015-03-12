@@ -1,0 +1,23 @@
+Replace Part C1 CAP in D:\PCB\FallDetection\periphrial.SchDoc with CAP from MCU.SCHLIB
+Replace Part C6 Cap in D:\PCB\FallDetection\periphrial.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C7 Cap in D:\PCB\FallDetection\periphrial.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C8 Cap in D:\PCB\FallDetection\periphrial.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part C9 Cap in D:\PCB\FallDetection\periphrial.SchDoc with Cap from Miscellaneous Devices.IntLib
+Replace Part DS1 LED in D:\PCB\FallDetection\periphrial.SchDoc with LED from STM32F103C8.SCHLIB
+Replace Part DS2 LED in D:\PCB\FallDetection\periphrial.SchDoc with LED from STM32F103C8.SCHLIB
+Replace Part DS3 LED in D:\PCB\FallDetection\periphrial.SchDoc with LED from STM32F103C8.SCHLIB
+Replace Part DS4 LED in D:\PCB\FallDetection\periphrial.SchDoc with LED from STM32F103C8.SCHLIB
+Replace Part J1 D Connector 9 in D:\PCB\FallDetection\periphrial.SchDoc with D Connector 9 from Miscellaneous Connectors.IntLib
+Replace Part KB1 KEY4Pin in D:\PCB\FallDetection\periphrial.SchDoc with KEY4Pin from MCU.SCHLIB
+Replace Part KB2 KEY4Pin in D:\PCB\FallDetection\periphrial.SchDoc with KEY4Pin from MCU.SCHLIB
+Replace Part P1 Header 10X2 in D:\PCB\FallDetection\periphrial.SchDoc with Header 10X2 from Miscellaneous Connectors.IntLib
+Replace Part P3 Header 8 in D:\PCB\FallDetection\periphrial.SchDoc with Header 8 from Miscellaneous Connectors.IntLib
+Replace Part P4 Header 4 in D:\PCB\FallDetection\periphrial.SchDoc with Header 4 from Miscellaneous Connectors.IntLib
+Replace Part R1 Res1 in D:\PCB\FallDetection\periphrial.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part R2 Res3 in D:\PCB\FallDetection\periphrial.SchDoc with Res3 from Miscellaneous Devices.IntLib
+Replace Part R4 Res1 in D:\PCB\FallDetection\periphrial.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part R5 Res1 in D:\PCB\FallDetection\periphrial.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part R14 Res1 in D:\PCB\FallDetection\periphrial.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part R15 Res1 in D:\PCB\FallDetection\periphrial.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part R16 Res1 in D:\PCB\FallDetection\periphrial.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part U3 MAX3232CSE in D:\PCB\FallDetection\periphrial.SchDoc with MAX3232CSE from STM32F103C8.SCHLIB

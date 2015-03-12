@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=3V3 Pin=H1-3
+Removed Pin From Net: NetName=BOOT0 Pin=KB1-1
+Removed Pin From Net: NetName=3V3 Pin=KB1-2
+Removed Pin From Net: NetName=3V3 Pin=KB1-3
+Removed Pin From Net: NetName=BOOT0 Pin=KB1-4
+Removed Pin From Net: NetName=GND Pin=R6-1
+Removed Pin From Net: NetName=BOOT0 Pin=R6-2
+Removed Pin From Net: NetName=GND Pin=R7-1
+Removed Pin From Net: NetName=BOOT1 Pin=R7-2
+Removed Member From Class: ClassName=periphrial Member=R6
+Removed Member From Class: ClassName=periphrial Member=R7
+Added Component: Designator=R3(6-0805_N)
+Added Component: Designator=R4(6-0805_N)
+Added Component: Designator=SS1(SS-12F44)
+Added Component: Designator=SS2(SS-12F44)
+Added Pin To Net: NetName=GND Pin=KB1-1
+Added Pin To Net: NetName=GND Pin=KB1-4
+Added Pin To Net: NetName=3V3 Pin=R3-2
+Added Pin To Net: NetName=3V3 Pin=R4-2
+Added Pin To Net: NetName=GND Pin=SS1-1
+Added Pin To Net: NetName=BOOT0 Pin=SS1-2
+Added Pin To Net: NetName=3V3 Pin=SS2-2
+Added Pin To Net: NetName=GND Pin=SS2-3
+Added Pin To Net: NetName=NetH1_2 Pin=H1-3
+Added Pin To Net: NetName=NetH1_2 Pin=SS2-1
+Added Net: Name=NetH1_2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=SS1-3
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=PE5 Pin=KB1-3
+Added Pin To Net: NetName=PE5 Pin=KB1-2
+Added Pin To Net: NetName=PE5 Pin=R4-1
+Added Net: Name=PE5
+Added Member To Class: ClassName=FallDetection Member=Component R3 Res1
+Added Member To Class: ClassName=periphrial Member=Component R4 Res1
+Added Member To Class: ClassName=FallDetection Member=Component SS1 SW
+Added Member To Class: ClassName=power Member=Component SS2 SW

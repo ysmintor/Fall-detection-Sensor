@@ -1,0 +1,25 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~FallDetection.PrjPcb|ReportField=ProjectFullPath~C:\Users\York\Desktop\視給\FallDetection.PrjPcb|ReportField=Title~Bill of Materials For Project [FallDetection.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~60|ReportField=ReportTime~19:19:36|ReportField=ReportDate~2014/6/25|ReportField=ReportDateTime~2014/6/25 19:19:36|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2014/6/25|ReportField=CurrentTime~19:19:29|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\York\Desktop\視給\FallDetection.SchDoc|ReportField=DocumentName~FallDetection.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2014/6/12|ReportField=Organization~|ReportField=ProjectName~FallDetection.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~視給潰聆|ReportField=DataSourceFileName~FallDetection.PrjPcb|ReportField=DataSourceFullPath~C:\Users\York\Desktop\視給\FallDetection.PrjPcb
+Battery|Multicell Battery|BT1|CR1220|Battery|1
+104|Ceramic Capacitor|C1|1608[0603]|CAP|1
+10PF|Capacitor|C2, C3, C4, C5|1608[0603]|Cap|4
+Cap|Capacitor|C6, C7, C8, C9, C12, C13, C14, C15, C16, C17, C18, C20|1608[0603]|Cap|12
+1uF|Capacitor|C10, C11|1608[0603]|Cap|2
+LED|LED|DS1, DS2, DS3, DS4|0805D|LED|4
+47uF/25V|Polarized Capacitor (Radial)|EC1|47UF 25V SMT Caps|Cap Pol1|1
+HT7333-SOP89||H1|HT7333-SOT89|HT7333|1
+D Connector 9|Receptacle Assembly, 9 Position, Right Angle|J1|DSUB1.385-2H9|D Connector 9|1
+TF_CARD||J2|MicroSD|TF_CARD|1
+KEY4Pin||KB1, KB2|KEY4Pin|KEY4Pin|2
+10uH|Inductor|L1, L2|0805C|Inductor|2
+JTAG|Header, 10-Pin, Dual row|P1|HDR2X10|Header 10X2|1
+POWER VCC|Header, 2-Pin|P2|HDR1X2|Header 2|1
+MPU6050|Header, 8-Pin|P3|HDR1X8|Header 8|1
+bluetooth1|Header, 4-Pin|P4|HDR1X4|Header 4|1
+Res1|Resistor|R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16|J1-0603|Res1, Res3, Res1, Res1, Res1, Res1, Res1, Res1, Res1, Res1, Res1, Res1, Res1, Res1, Res1, Res1|16
+SW|畢雄羲壽 SS-12F44 媼結蕾宒 1P2T SS12F44G5 賑雄羲壽|SS1, SS2|SS-12F44|SS-12F44|2
+STM32F103VET6|ST High-density performance line ARM-based 32-bit MCU with 256 to  512KB Flash, USB, CAN, 11 timers, 3 ADCs, 13 communication interfaces|U1|TQFP100-2|STM32F103VET6|1
+W25X16A|W25X16A, Serial Flash, 16M-bit, 2M-Byte|U2|W25X16A-SOIC127P780X216-8N|W25X16A|1
+MAX3232CSE||U3|MAX3232CSE|MAX3232CSE|1
+AT24C32D|EEPROM, 32K|U4|AT24C32D-SOIC127P600X175-8N|AT24C32D|1
+XTAL 32.768KHz|Crystal Oscillator|Y1|XTAL2|XTAL|1
+XTAL 8MHz|Crystal Oscillator|Y2|XTAL1|XTAL|1

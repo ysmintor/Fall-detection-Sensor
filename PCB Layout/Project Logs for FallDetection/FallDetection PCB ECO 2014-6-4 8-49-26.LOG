@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=PA10 Pin=U1-69
+Added Room: Name=FallDetection
+Added Room: Name=periphrial
+Added Room: Name=power
+Added Room: Name=storage
