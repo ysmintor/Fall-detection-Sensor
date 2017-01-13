@@ -8,4 +8,4 @@ Fall detection with ARM M3 and MPU6050
 <H1>采用STM32最小系统开发，硬件在keil打开文档中已经有说明，请在下载过程中注意识别！</h1>
 
 # Image Preview
-![](picture.jpg)
+![](product.jpg)
